@@ -1,5 +1,5 @@
 import { assert } from 'chai';
-import { Othing, Othingy, objectId, IsOthing, IfOthing, ObjectId } from '../lib/othing';
+import { Othing, Othingy, objectId, IsOthing, ObjectId } from '../lib/othing';
 
 class MyTestExtends extends Othingy {
 }
