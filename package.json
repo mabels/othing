@@ -1,6 +1,6 @@
 {
   "name": "othing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "othing give js objects id's",
   "main": "./dist/lib/othing.js",
   "types": "./dist/lib/othing.d.ts",
